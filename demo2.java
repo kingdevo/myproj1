@@ -7,3 +7,6 @@ This is 1st edit
 ------------------
 This is 2nd edit
 ------------------
+-----------------------
+This is the edit by master branch
+----------------------
